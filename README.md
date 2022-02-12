@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**miyucode/miyucode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on PandoOS
+- 🌱 I’m currently learning Python
+- 👯 I’m looking to collaborate on nothing special
+- 🤔 I’m looking for help with my project
+- 💬 Ask me about myself
+- 📫 How to reach me: miyucode@gmail.com
+- 😄 Pronouns: he
+- ⚡ Fun fact: i'm only 12 years old right now so... yep i'm a young developer, isn't that cool? :p
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+💛 I'm very cool and friendly, if u wanna be friend, contact me on twitter: @miyuleyoutubeur
+</br>
