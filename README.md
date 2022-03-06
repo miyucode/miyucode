@@ -8,7 +8,7 @@
 - 💬 Ask me about myself
 - 📫 How to reach me: miyucode@gmail.com
 - 😄 Pronouns: he
-- ⚡ Fun fact: i'm only 12 years old right now so... yep i'm a young developer, isn't that cool? :p
+- ⚡ Fun fact: i'm only 13 years old right now so... yep i'm a young developer, isn't that cool? :p
 
 <br>
 💛 I'm very cool and friendly, if u wanna be friend, contact me on twitter: @miyuleyoutubeur
