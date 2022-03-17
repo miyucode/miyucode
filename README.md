@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on some projects !
+- 🔭 I’m currently working on MaxPyOS !
 - 🌱 I’m currently learning Python
-- 👀 I'm the founder of Mixoy !
 - 👯 I’m looking to collaborate on nothing special
 - 🤔 I’m looking for help with my project
 - 💬 Ask me about myself
