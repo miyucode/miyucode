@@ -7,4 +7,3 @@
 - 💬 Ask me about myself
 - 📫 How to reach me: miyucode@gmail.com
 - 😄 Pronouns: he/him/his
-- ⚡ Fun fact: i'm only 13 years old right now so... yep i'm a young developer, isn't that cool? :p
